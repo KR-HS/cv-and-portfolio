@@ -36,5 +36,5 @@
 
 ## 📨 Contact
 
-- Email: jjc5989@naver.com | ghs5215989@gmail.com
+- Email: jjc5989@naver.com
 - GitHub: [github.com/KR-HS](https://github.com/KR-HS)
