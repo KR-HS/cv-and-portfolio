@@ -19,7 +19,7 @@
 
 ## 📄 Portfolio
 
-📎 [포트폴리오 PDF 다운로드](./Portfolio.pdf)
+📎 [포트폴리오 PDF 다운로드](./포트폴리오.pdf)
 
 ---
 
