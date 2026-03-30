@@ -7,13 +7,13 @@
 
 ## 🔗 Portfolio Website
 📘 **전체 프로젝트 및 학습 기록 보기**  
-👉 [https://kr-hs.github.io/Fullstack-Study-241204-250625/](https://kr-hs.github.io/Fullstack-Study-241204-250625/)
+👉 [https://kr-hs.github.io/Fullstack-Study/](https://kr-hs.github.io/Fullstack-Study/)
 
 ---
 
 ## 📄 Resume
 
-📎 [이력서 PDF 다운로드](./KimHyeonsu_cv.pdf)
+📎 [이력서 PDF 다운로드](./이력서.pdf)
 
 ---
 
