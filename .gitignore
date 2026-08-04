@@ -1,5 +1,8 @@
 # txt 파일 전부
 *.txt
 
+# 임시파일 제외
+~$*
+
 # document 폴더제외
 /document/
