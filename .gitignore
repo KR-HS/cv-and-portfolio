@@ -1,2 +1,5 @@
 # txt 파일 전부
 *.txt
+
+# document 폴더제외
+/document/
